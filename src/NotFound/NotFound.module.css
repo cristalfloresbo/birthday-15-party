@@ -1,0 +1,22 @@
+.styledCardTitle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #e91e63;
+    margin: 0;
+}
+
+.styledCardSubtitle {
+    text-align: center;
+    margin: 0;
+    color: #e91e63;
+}
+
+:root {
+    width: 100%;
+}
+
+.styledCardText {
+    text-align: center;
+    margin-top: 0;
+}

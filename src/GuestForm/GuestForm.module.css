@@ -1,0 +1,16 @@
+.divCardContent {
+    margin-right: 2rem;
+    margin-left: 2rem;
+}
+
+.divGuestForm {
+    position: fixed;
+    inset: 0;
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+}
+
+.titleText {
+    color: #e91e63 !important;
+}
